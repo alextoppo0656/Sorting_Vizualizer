@@ -1,25 +1,53 @@
-# Sorting_Visualizer
+# Sorting Visualizer  
 
-A web application showcasing the inner workings of sorting algorithms.
+[![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 
-Implemented algorithms:
+A web application that visually demonstrates the **inner workings of sorting algorithms**.  
 
-1. Bubble sort
-2. Selection sort
-3. Insertion sort
-4. Merge sort
-5. Quick sort
-6. Heap sort
+---
 
-Features:
+## 🚀 Implemented Algorithms  
+- **Bubble Sort**  
+- **Selection Sort**  
+- **Insertion Sort**  
+- **Merge Sort**  
+- **Quick Sort**  
+- **Heap Sort**  
 
-1. Colored representation of step being executed.
-   1.1) Blue:default
-   1.2) Yellow: Being compared
-   1.3) Red: Identified as in incorrect position and to be moved
-   1.4) Green: In correct position
-2. 3 Controls for visualizations
-   2.1) Speed of visualization (5 speed levels)
-   2.2) Data size ()
-   2.3) Generation of new data (Randomly generate new data).
-3. Time and Space complexity of algorithm being visualized.
+---
+
+## 🎨 Visualization Features  
+
+### Color Representation  
+- 🔵 **Blue** – Default state  
+- 🟡 **Yellow** – Elements being compared  
+- 🔴 **Red** – Element identified as misplaced and to be moved  
+- 🟢 **Green** – Element placed in the correct position  
+
+### Controls  
+- ⏩ **Speed control** – 5 adjustable levels  
+- 📊 **Data size control** – Select the number of elements to sort  
+- 🔄 **Generate new data** – Create a new randomized dataset anytime  
+
+### Algorithm Insights  
+- Shows **Time Complexity** (Best, Average, Worst)  
+- Shows **Space Complexity**  
+
+---
+
+## 📌 How It Works  
+Sorting Visualizer provides an **interactive way to learn sorting algorithms**.  
+You can:  
+- Adjust speed to see algorithms in detail or fast-forward  
+- Change data size to observe performance differences  
+- Generate new arrays for different test cases  
+- Understand complexity analysis while the algorithm runs  
+
+---
+
+## 🛠 Tech Stack  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
